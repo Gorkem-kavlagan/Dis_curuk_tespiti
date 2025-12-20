@@ -1,0 +1,13 @@
+train: c:/Users/gorke/Desktop/2212503019_Görkem_Kavlağan/dataset/train/images
+val: c:/Users/gorke/Desktop/2212503019_Görkem_Kavlağan/dataset/valid/images
+test: c:/Users/gorke/Desktop/2212503019_Görkem_Kavlağan/dataset/test/images
+
+nc: 2
+names: ['Çürük', 'Çürük Bölgesi']
+
+roboflow:
+  workspace: disproje
+  project: dental-caries-detection-4yqna
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/disproje/dental-caries-detection-4yqna/dataset/1
